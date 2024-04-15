@@ -96,3 +96,6 @@ Disconnect Free Phone Business Product (https://bass.netcracker.com/display/TELN
 Disconnect FPB Line Product  (https://bass.netcracker.com/display/TELN/%5BR2.1%5DFPB+Line+Product+Disconnect)
 Disconnect Phone Number BSS CFS (https://bass.netcracker.com/display/TELN/%5BR2.1%5DPhone+Number+BSS+CFS+Disconnect)
 [/should not be checked for CTDCLUS3TM-607]
+
+
+![image](https://github.com/AlSe510/Example_of_MD_PLUS_GIT/assets/92928832/2d26214b-9a3d-4705-9f00-76b30e6675fc)
