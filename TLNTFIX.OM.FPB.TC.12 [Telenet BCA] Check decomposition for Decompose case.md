@@ -22,12 +22,22 @@ Mariia Barsukova
 *  TLNTFIX.OM.FPB.TC.12
 
 ## Prerequisites
- Two New location copied from Belgium du, 3002 Antwerp du, Kleinebeerstraat du, h. 3 with different unique externalId = 1110xxx, where xxx - random letters or digits
- How to: https://bass.netcracker.com/pages/viewpage.action?pageId=1378864199
- 
- Telenet BCA with: 
- 1. Basic Voice Pro 2 Go with 2 Landlines on Location1
- 2. Smart Voice Pro Multi on Location2
+
+[//]: # ( Two New locations copied from Belgium du, 3002 Antwerp du, Kleinebeerstraat du, h. 3 with different unique externalId = 1110xxx, where xxx - random letters or digits)
+
+[//]: # ( How to: https://bass.netcracker.com/pages/viewpage.action?pageId=1378864199)
+
+[//]: # ( )
+[//]: # ( Telenet BCA with: )
+
+[//]: # ( 1. Basic Voice Pro 2 Go with 2 Landlines on Location1)
+
+[//]: # ( 2. Smart Voice Pro Multi on Location2)
+
+|  Brand  | CA Type and # |                Location1                 | Product1                        |                Location2                 | Product2        |
+|:-------:|:-------------:|:----------------------------------------:|---------------------------------|:----------------------------------------:|-----------------|
+| Telenet |     BCA1      | Antwerp du, Kleinebeerstraat du, h. 3xx1 | Voice Pro 2 Go with 2 Landlines | Antwerp du, Kleinebeerstraat du, h. 3xx1 | Voice Pro Multi |
+
  
  user with (A) NetCracker - BSS CC TBO
 
@@ -37,8 +47,6 @@ Mariia Barsukova
 ### 1.Go to BCA1 from prerequisites
 ### 2.Go to <Order Entry> tab ? click [New Sales Order] ? select Distribution Channel = Telesales ? Location = Location1  ? click [Create]
 *ER:* 2.SO is created
-
-
 
 ### 3.Go to Basic Voice Pro 2 Go and click [Decompose Bundle]
 ### 4.Decompose Basic Voice Pro 2 Go to 2 new Telenet Freephone B2B Products
