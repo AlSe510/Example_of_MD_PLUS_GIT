@@ -45,7 +45,7 @@ Mariia Barsukova
 
 ### 0.Login as user from Prerequisites
 ### 1.Go to BCA1 from prerequisites
-### 2.Go to <Order Entry> tab ? click [New Sales Order] ? select Distribution Channel = Telesales ? Location = Location1  ? click [Create]
+### 2.Go to <Order Entry> tab > click [New Sales Order] > select Distribution Channel = Telesales > Location = Location1  > click [Create]
 *ER:* 2.SO is created
 
 ### 3.Go to Basic Voice Pro 2 Go and click [Decompose Bundle]
@@ -75,7 +75,7 @@ Disconnect Phone Number BSS CFS (https://bass.netcracker.com/display/TELN/%5BR2.
 
 
 
-### 9.Go to <Order Entry> tab ? click [New Sales Order] ? select Distribution Channel = Telesales ? Location = Location2  ? click [Create]
+### 9.Go to <Order Entry> tab > click [New Sales Order] > select Distribution Channel = Telesales > Location = Location2  > click [Create]
 *ER:* 9.SO is created
 
 
